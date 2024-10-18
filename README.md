@@ -1,3 +1,5 @@
+![Démonstration](./weather_animation.gif)
+
 # Modularity
 The Neural-LAM code is designed to modularize the different components involved in training and evaluating neural weather prediction models.
 Models, graphs and data are stored separately and it should be possible to swap out individual components.
